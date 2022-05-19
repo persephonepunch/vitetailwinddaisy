@@ -7,11 +7,24 @@ module.exports = {
     themes: [
       {
         mytheme: {
-          primary: "#f4708c",
-          secondary: "#222222",
-          accent: "#999999",
-          neutral: "#3d4451",
-          "base-100": "#ffffff",
+                  
+            "primary": "#fb7185",
+                      
+            "secondary": "#fee2e2",
+                      
+            "accent": "#fca5a5",
+                      
+            "neutral": "#e5e7eb",
+                      
+            "base-100": "#FFFFFF",
+                      
+            "info": "#f43f5e",
+                      
+            "success": "#4b5563",
+                      
+            "warning": "#9ca3af",
+                      
+            "error": "#f43f5e",
 
           "--rounded-box": "0rem", // border radius rounded-box utility class, used in card and other large boxes
           "--rounded-btn": "0rem", // border radius rounded-btn utility class, used in buttons and similar element
